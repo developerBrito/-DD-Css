@@ -1,0 +1,11 @@
+body{
+	background-color: #5c0459
+}
+
+car, h1, h2{
+	font-family: arial;
+}
+
+h1, h2{
+		text-align: center;
+}
